@@ -4,7 +4,7 @@
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px"> -->
 ### Hi, I'm Malik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=malik_imansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
 
 ## I'm a Frontend Developer!
 - 💻 3 Years Experience in Frontend Technologies
@@ -56,7 +56,7 @@
 [![Profile badge](https://www.codewars.com/users/Imansaparov/badges/small)](https://www.codewars.com/users/Imansaparov)
 
 <br/>
-<!-- ![snake gif](https://github.com/imansaparov/malikimansaparov/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![snake gif](https://github.com/imansaparov/imansaparov/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=imansaparov&theme=algolia&layout=compacta&show_icons=true) -->
 
