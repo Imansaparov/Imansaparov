@@ -1,10 +1,10 @@
 
-<img align="right" alt="GIF" src="https://github.com/Imansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
+<img align="right" alt="GIF" src="https://github.com/Imansaparov/Imansaparov/blob/main/expert-developers.gif" 
  width="480" height="320" />
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px"> -->
 ### Hi, I'm Malik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=malik_imansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
 
 ## I'm a Frontend Developer!
 - 💻 3 Years Experience in Frontend Technologies
