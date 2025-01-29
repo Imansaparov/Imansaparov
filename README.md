@@ -1,10 +1,10 @@
 
-<img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
+<img align="right" alt="GIF" src="https://github.com/Imansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
  width="480" height="320" />
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px"> -->
 ### Hi, I'm Malik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=imansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
 
 ## I'm a Frontend Developer!
 - 💻 3 Years Experience in Frontend Technologies
@@ -56,17 +56,17 @@
 [![Profile badge](https://www.codewars.com/users/Imansaparov/badges/small)](https://www.codewars.com/users/Imansaparov)
 
 <br/>
-<!-- ![snake gif](https://github.com/malikimansaparov/malikimansaparov/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![snake gif](https://github.com/imansaparov/malikimansaparov/blob/output/github-contribution-grid-snake.svg) -->
 
-<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikimansaparov&theme=algolia&layout=compacta&show_icons=true) -->
+<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=imansaparov&theme=algolia&layout=compacta&show_icons=true) -->
 
 <table>
   <tr>
     <td>
-      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=malikimansaparov&theme=algolia" alt="Malik's Github stats" />
+      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imansaparov&theme=algolia" alt="Malik's Github stats" />
     </td>
     <td>
-      <img height="160em" align="left" alt="Malik's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malikimansaparov&theme=algolia&layout=compact" />
+      <img height="160em" align="left" alt="Malik's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imansaparov&theme=algolia&layout=compact" />
     </td>
   </tr>
 </table>
@@ -74,7 +74,7 @@
 
 [telegram]: https://t.me/imansaparov
 [instagram]: https://www.instagram.com/m_imansaparov
-[linkedin]: https://www.linkedin.com/in/malik-imansaparov-591a88186/
+[linkedin]: https://www.linkedin.com/in/imansaparov
 [facebook]: https://www.facebook.com/malik.imansaparov
 [vk]: https://m.vk.com/id440183588
 [twitter]: https://twitter.com/MImansaparov
