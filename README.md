@@ -8,7 +8,7 @@
 
 ## I'm a Frontend Developer!
 - 💻 3+ Years Experience in Frontend Technologies
-- 👨‍💻 Open-Source Contributor & mentor
+- 👨‍💻 Tech mentor & Open-Source Contributor
 - ⚡ Top 100 GitHub contributors in Kyrgyzstan
 - 📚 I’m currently learning Node.js 
  
